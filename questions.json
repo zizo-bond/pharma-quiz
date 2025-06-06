@@ -1,0 +1,1302 @@
+{
+  "quizzes": [
+    {
+      "id": "antimicrobial_intro",
+      "topicName": "Introduction (Microbiology)",
+      "description": "أسئلة حول مقدمة علم الأحياء الدقيقة.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "mcq",
+          "questionText": "ما هو التركيز الرئيسي لعلم الأحياء الدقيقة؟",
+          "answerOptions": [
+            { "answerText": "دراسة الفيروسات فقط", "isCorrect": false },
+            { "answerText": "دراسة الكائنات الدقيقة بما في ذلك البكتيريا والفيروسات والفطريات والطفيليات", "isCorrect": true },
+            { "answerText": "دراسة الخلايا البشرية", "isCorrect": false },
+            { "answerText": "دراسة بيولوجيا النبات", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 2,
+          "type": "mcq",
+          "questionText": "أي من الكائنات الدقيقة التالية يعتبر بدائيات النوى؟",
+          "answerOptions": [
+            { "answerText": "البكتيريا", "isCorrect": true },
+            { "answerText": "الفطريات", "isCorrect": false },
+            { "answerText": "الفيروسات", "isCorrect": false },
+            { "answerText": "الطفيليات", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 3,
+          "type": "mcq",
+          "questionText": "ما هي الطريقة الشائعة لتصنيف البكتيريا بناءً على صبغة جرام؟",
+          "answerOptions": [
+            { "answerText": "إيجابية الجرام وسلبية الجرام", "isCorrect": true },
+            { "answerText": "الهوائية واللاهوائية", "isCorrect": false },
+            { "answerText": "المتحركة وغير المتحركة", "isCorrect": false },
+            { "answerText": "المسببة للأمراض وغير المسببة للأمراض", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 4,
+          "type": "mcq",
+          "questionText": "أي من هذه العوامل ليس من مسببات الأمراض البشرية الشائعة؟",
+          "answerOptions": [
+            { "answerText": "الإشريكية القولونية (E. coli)", "isCorrect": false },
+            { "answerText": "المكورات العنقودية الذهبية (Staphylococcus aureus)", "isCorrect": false },
+            { "answerText": "خميرة الخباز (Saccharomyces cerevisiae)", "isCorrect": true },
+            { "answerText": "المكورات الرئوية (Streptococcus pneumoniae)", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 5,
+          "type": "mcq",
+          "questionText": "ما هي الوظيفة الأساسية للجدار الخلوي في البكتيريا؟",
+          "answerOptions": [
+            { "answerText": "تخليق البروتين", "isCorrect": false },
+            { "answerText": "حماية الخلية والحفاظ على شكلها", "isCorrect": true },
+            { "answerText": "تخزين الطاقة", "isCorrect": false },
+            { "answerText": "تنظيم حركة المواد داخل وخارج الخلية", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antibiotics_classification",
+      "topicName": "Classification of Antibiotics",
+      "description": "أسئلة حول تصنيف المضادات الحيوية.",
+      "questions": [
+        {
+          "id": 6,
+          "type": "mcq",
+          "questionText": "كيف تصنف المضادات الحيوية بناءً على تأثيرها على البكتيريا؟",
+          "answerOptions": [
+            { "answerText": "بكتيريوستاتيك وبكتيريوسيدال", "isCorrect": true },
+            { "answerText": "حمضي وقاعدي", "isCorrect": false },
+            { "answerText": "اصطناعي وطبيعي", "isCorrect": false },
+            { "answerText": "فموي ووريدي", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 7,
+          "type": "mcq",
+          "questionText": "أي من المضادات الحيوية التالية يعمل عن طريق تثبيط تخليق جدار الخلية البكتيرية؟",
+          "answerOptions": [
+            { "answerText": "البنسلينات", "isCorrect": true },
+            { "answerText": "التتراسيكلين", "isCorrect": false },
+            { "answerText": "الماكروليدات", "isCorrect": false },
+            { "answerText": "الفلوروكينولونات", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 8,
+          "type": "mcq",
+          "questionText": "ما هو المضاد الحيوي الذي يستهدف الريبوسوم البكتيري 50S؟",
+          "answerOptions": [
+            { "answerText": "أموكسيسيلين", "isCorrect": false },
+            { "answerText": "سيبروفلوكساسين", "isCorrect": false },
+            { "answerText": "إريثروميسين", "isCorrect": true },
+            { "answerText": "فانكومايسين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 9,
+          "type": "mcq",
+          "questionText": "أي من هذه المضادات الحيوية يعتبر من مثبطات تخليق حمض الفوليك؟",
+          "answerOptions": [
+            { "answerText": "تريميثوبريم-سلفاميثوكسازول", "isCorrect": true },
+            { "answerText": "جنتاميسين", "isCorrect": false },
+            { "answerText": "كلاريثروميسين", "isCorrect": false },
+            { "answerText": "دوكسيسيكلين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 10,
+          "type": "mcq",
+          "questionText": "ما هو المضاد الحيوي الذي يعمل عن طريق تثبيط إنزيم DNA جيراز؟",
+          "answerOptions": [
+            { "answerText": "أزيثروميسين", "isCorrect": false },
+            { "answerText": "سيبروفلوكساسين", "isCorrect": true },
+            { "answerText": "كليندامايسين", "isCorrect": false },
+            { "answerText": "ميروبينيم", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "penicillins",
+      "topicName": "Penicillins",
+      "description": "أسئلة حول مجموعة البنسلين من كتاب Pharma Guide.",
+      "questions": [
+        {
+          "id": 11,
+          "type": "mcq",
+          "questionText": "ما هي الآلية الأساسية لعمل البنسلينات؟",
+          "answerOptions": [
+            { "answerText": "تثبيط تخليق البروتين في الوحدة الفرعية 50S", "isCorrect": false },
+            { "answerText": "الارتباط ببروتينات الربط البنسلين (PBPs) لتثبيط تخليق جدار الخلية", "isCorrect": true },
+            { "answerText": "تثبيط DNA جيراز", "isCorrect": false },
+            { "answerText": "منع تخليق حمض الفوليك", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 12,
+          "type": "mcq",
+          "questionText": "ما هي المادة المدمجة مع الأموكسيسيلين في 'كو-أموكسكلاف' لحمايته من إنزيمات β-لاكتاماز؟",
+          "answerOptions": [
+            { "answerText": "سولباكتام", "isCorrect": false },
+            { "answerText": "تازوباكتام", "isCorrect": false },
+            { "answerText": "سيلاستاتين", "isCorrect": false },
+            { "answerText": "كلافولانات (حمض الكلافولانيك)", "isCorrect": true }
+          ]
+        },
+        {
+          "id": 13,
+          "type": "mcq",
+          "questionText": "أي شكل من أشكال البنسلين يعتبر طويل المفعول، ويستمر حتى 3-4 أسابيع بعد جرعة واحدة عن طريق الحقن العضلي، ويستخدم للوقاية من الحمى الروماتيزمية؟",
+          "answerOptions": [
+            { "answerText": "البنسلين V", "isCorrect": false },
+            { "answerText": "الأمبسلين", "isCorrect": false },
+            { "answerText": "بنسلين البنزاثين", "isCorrect": true },
+            { "answerText": "الأوكساسيلين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 14,
+          "type": "mcq",
+          "questionText": "أي من البكتيريا التالية مقاوم بشكل طبيعي للبنسلينات؟",
+          "answerOptions": [
+            { "answerText": "العنقودية الرئوية (Streptococcus pneumoniae)", "isCorrect": false },
+            { "answerText": "المكورات الرئوية (Mycoplasma pneumoniae)", "isCorrect": true },
+            { "answerText": "المكورات العنقودية الذهبية غير المقاومة (Staphylococcus aureus)", "isCorrect": false },
+            { "answerText": "المستدمية النزلية (Neisseria meningitidis)", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 15,
+          "type": "mcq",
+          "questionText": "ما هو التأثير الجانبي الأكثر شيوعًا للبنسلينات؟",
+          "answerOptions": [
+            { "answerText": "تسمم الكبد", "isCorrect": false },
+            { "answerText": "تسمم الكلى", "isCorrect": false },
+            { "answerText": "ردود الفعل التحسسية", "isCorrect": true },
+            { "answerText": "الاعتلال العصبي المحيطي", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "description": "أسئلة حول مجموعة السيفالوسبورينات.",
+      "questions": [
+        {
+          "id": 16,
+          "type": "mcq",
+          "questionText": "أي جيل من السيفالوسبورينات له أفضل نشاط ضد الزائفة الزنجارية؟",
+          "answerOptions": [
+            { "answerText": "الجيل الأول", "isCorrect": false },
+            { "answerText": "الجيل الثاني", "isCorrect": false },
+            { "answerText": "الجيل الثالث", "isCorrect": false },
+            { "answerText": "الجيل الرابع", "isCorrect": true }
+          ]
+        },
+        {
+          "id": 17,
+          "type": "mcq",
+          "questionText": "أي سيفالوسبورين يستخدم عادة للوقاية الجراحية؟",
+          "answerOptions": [
+            { "answerText": "سيفترياكسون", "isCorrect": false },
+            { "answerText": "سيفازولين", "isCorrect": true },
+            { "answerText": "سيفيبيم", "isCorrect": false },
+            { "answerText": "سيفوروكسيم", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 18,
+          "type": "mcq",
+          "questionText": "ما هو التأثير الجانبي الرئيسي للسيfalوسبورينات في المرضى الذين يعانون من حساسية البنسلين؟",
+          "answerOptions": [
+            { "answerText": "فرط الحساسية التفاعلية المتبادلة", "isCorrect": true },
+            { "answerText": "الفشل الكلوي", "isCorrect": false },
+            { "answerText": "التهاب الكبد", "isCorrect": false },
+            { "answerText": "الاعتلال العصبي المحيطي", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 19,
+          "type": "mcq",
+          "questionText": "أي سيفالوسبورين يمكنه عبور الحاجز الدموي الدماغي بفعالية؟",
+          "answerOptions": [
+            { "answerText": "سيفازولين", "isCorrect": false },
+            { "answerText": "سيفوروكسيم", "isCorrect": false },
+            { "answerText": "سيفترياكسون", "isCorrect": true },
+            { "answerText": "سيفدينير", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 20,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل السيفالوسبورينات؟",
+          "answerOptions": [
+            { "answerText": "تثبيط تخليق جدار الخلية عن طريق الارتباط بـ PBPs", "isCorrect": true },
+            { "answerText": "إتلاف الغشاء البكتيري", "isCorrect": false },
+            { "answerText": "تثبيط تخليق البروتين", "isCorrect": false },
+            { "answerText": "حجب تكرار الحمض النووي", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "carbapenems",
+      "topicName": "Carbapenems",
+      "description": "أسئلة حول مجموعة الكاربابينيمات.",
+      "questions": [
+        {
+          "id": 21,
+          "type": "mcq",
+          "questionText": "أي من الكاربابينيمات مقاوم للتدهور بواسطة إنزيم ديهدروببتيداز الكلوي-1 (DHP-1)؟",
+          "answerOptions": [
+            { "answerText": "إيميبينيم", "isCorrect": false },
+            { "answerText": "ميروبينيم", "isCorrect": true },
+            { "answerText": "إرتابينيم", "isCorrect": false },
+            { "answerText": "دوريبينيم", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 22,
+          "type": "mcq",
+          "questionText": "ما هو طيف نشاط الكاربابينيمات؟",
+          "answerOptions": [
+            { "answerText": "ضيق الطيف (إيجابية الجرام فقط)", "isCorrect": false },
+            { "answerText": "واسع الطيف (إيجابية الجرام وسالبة الجرام، بما في ذلك منتجي بيتا-لاكتاماز الطيف الموسع)", "isCorrect": true },
+            { "answerText": "البكتيريا اللاهوائية فقط", "isCorrect": false },
+            { "answerText": "الميكوبكتيريا فقط", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 23,
+          "type": "mcq",
+          "questionText": "أي إنزيم يمكنه تحلل الكاربابينيمات، مما يؤدي إلى المقاومة؟",
+          "answerOptions": [
+            { "answerText": "ESBL", "isCorrect": false },
+            { "answerText": "كاربابينيماز", "isCorrect": true },
+            { "answerText": "بنسليناز", "isCorrect": false },
+            { "answerText": "AmpC بيتا-لاكتاماز", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 24,
+          "type": "mcq",
+          "questionText": "ما هو التأثير الجانبي الرئيسي للإيميبينيم؟",
+          "answerOptions": [
+            { "answerText": "النوبات", "isCorrect": true },
+            { "answerText": "تسمم الكبد", "isCorrect": false },
+            { "answerText": "إطالة فترة QT", "isCorrect": false },
+            { "answerText": "الاعتلال العصبي المحيطي", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 25,
+          "type": "mcq",
+          "questionText": "أي من الكاربابينيمات له أطول نصف عمر؟",
+          "answerOptions": [
+            { "answerText": "إيميبينيم", "isCorrect": false },
+            { "answerText": "ميروبينيم", "isCorrect": false },
+            { "answerText": "إرتابينيم", "isCorrect": true },
+            { "answerText": "دوريبينيم", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vancomycin",
+      "topicName": "Glycopeptide Antibiotics (Vancomycin)",
+      "description": "أسئلة حول المضادات الحيوية الجليكوببتيدية.",
+      "questions": [
+        {
+          "id": 26,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل فانكومايسين؟",
+          "answerOptions": [
+            { "answerText": "يثبط تخليق جدار الخلية عن طريق الارتباط بـ D-الانين-D-الانين", "isCorrect": true },
+            { "answerText": "يحجب تخليق البروتين في الوحدة الفرعية 30S", "isCorrect": false },
+            { "answerText": "يثبط DNA جيراز", "isCorrect": false },
+            { "answerText": "يعطل غشاء الخلية", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 27,
+          "type": "mcq",
+          "questionText": "ما هو التأثير الجانبي الرئيسي للفانكومايسين؟",
+          "answerOptions": [
+            { "answerText": "متلازمة الرجل الأحمر", "isCorrect": true },
+            { "answerText": "البول الأخضر", "isCorrect": false },
+            { "answerText": "الصلبة الزرقاء", "isCorrect": false },
+            { "answerText": "الأظافر الصفراء", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 28,
+          "type": "mcq",
+          "questionText": "أي الكائنات الحية يستخدم الفانكومايسين ضدها بشكل أساسي؟",
+          "answerOptions": [
+            { "answerText": "المكورات العنقودية الذهبية المقاومة للميثيسيلين (MRSA)", "isCorrect": true },
+            { "answerText": "الإشريكية القولونية (E. coli)", "isCorrect": false },
+            { "answerText": "الزائفة الزنجارية (Pseudomonas aeruginosa)", "isCorrect": false },
+            { "answerText": "الكليبسيلا الرئوية (Klebsiella pneumoniae)", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 29,
+          "type": "mcq",
+          "questionText": "ما هو طريق إعطاء الفانكومايسين في حالات العدوى الجهازية؟",
+          "answerOptions": [
+            { "answerText": "الفموي", "isCorrect": false },
+            { "answerText": "الوريدي", "isCorrect": true },
+            { "answerText": "العضلي", "isCorrect": false },
+            { "answerText": "الاستنشاقي", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 30,
+          "type": "mcq",
+          "questionText": "ما هو الاختبار المختبري المستخدم لمراقبة علاج الفانكومايسين؟",
+          "answerOptions": [
+            { "answerText": "الكرياتينين في المصل", "isCorrect": false },
+            { "answerText": "مستويات القاع", "isCorrect": true },
+            { "answerText": "إنزيمات الكبد", "isCorrect": false },
+            { "answerText": "العد الدموي الكامل", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aminoglycosides",
+      "topicName": "Aminoglycosides",
+      "description": "أسئلة حول مجموعة الأمينوغليكوزيدات.",
+      "questions": [
+        {
+          "id": 31,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل الأمينوغليكوزيدات؟",
+          "answerOptions": [
+            { "answerText": "ترتبط بالوحدة الفرعية 30S للريبوسوم، مما يتسبب في قراءة خاطئة لـ mRNA", "isCorrect": true },
+            { "answerText": "تثبيط تخليق جدار الخلية", "isCorrect": false },
+            { "answerText": "حجب تخليق الفولات", "isCorrect": false },
+            { "answerText": "تثبيط DNA جيراز", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 32,
+          "type": "mcq",
+          "questionText": "أي من الأمينوغليكوزيدات يستخدم عادة لعلاج عدوى الزائفة الزنجارية؟",
+          "answerOptions": [
+            { "answerText": "جنتاميسين", "isCorrect": true },
+            { "answerText": "ستربتومايسين", "isCorrect": false },
+            { "answerText": "نيومايسين", "isCorrect": false },
+            { "answerText": "أميكاسين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 33,
+          "type": "mcq",
+          "questionText": "ما هو التأثير السمي الرئيسي للأمينوغليكوزيدات؟",
+          "answerOptions": [
+            { "answerText": "تسمم الكلى وتسمم الأذن", "isCorrect": true },
+            { "answerText": "تسمم الكبد", "isCorrect": false },
+            { "answerText": "تسمم الأعصاب", "isCorrect": false },
+            { "answerText": "تسمم القلب", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 34,
+          "type": "mcq",
+          "questionText": "ما هي استراتيجية الجرعة للأمينوغليكوزيدات لتقليل السمية؟",
+          "answerOptions": [
+            { "answerText": "الجرعة اليومية الواحدة", "isCorrect": true },
+            { "answerText": "الانصهار المستمر", "isCorrect": false },
+            { "answerText": "الجرعة مرتين يوميًا", "isCorrect": false },
+            { "answerText": "الجرعة الأسبوعية", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 35,
+          "type": "mcq",
+          "questionText": "أي من الأمينوغليكوزيدات يستخدم لعلاج السل؟",
+          "answerOptions": [
+            { "answerText": "ستربتومايسين", "isCorrect": true },
+            { "answerText": "توبرامايسين", "isCorrect": false },
+            { "answerText": "كانامايسين", "isCorrect": false },
+            { "answerText": "نيتيلمايسين", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macrolides",
+      "topicName": "Macrolides and Ketolides",
+      "description": "أسئلة حول مجموعة الماكروليدات والكيتوليدات.",
+      "questions": [
+        {
+          "id": 36,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل الماكروليدات؟",
+          "answerOptions": [
+            { "answerText": "ترتبط بالوحدة الفرعية 50S للريبوسوم، مما يثبط تخليق البروتين", "isCorrect": true },
+            { "answerText": "تثبيط تخليق جدار الخلية", "isCorrect": false },
+            { "answerText": "حجب تخليق الفولات", "isCorrect": false },
+            { "answerText": "إتلاف غشاء الخلية", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 37,
+          "type": "mcq",
+          "questionText": "أي من الماكروليدات يستخدم عادة لعلاج الالتهاب الرئوي غير النمطي؟",
+          "answerOptions": [
+            { "answerText": "أزيثروميسين", "isCorrect": true },
+            { "answerText": "كلاريثروميسين", "isCorrect": false },
+            { "answerText": "إريثروميسين", "isCorrect": false },
+            { "answerText": "تليثروميسين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 38,
+          "type": "mcq",
+          "questionText": "ما هو التأثير الجانبي الرئيسي للإريثروميسين؟",
+          "answerOptions": [
+            { "answerText": "اضطراب الجهاز الهضمي (غثيان، تقيؤ، إسهال)", "isCorrect": true },
+            { "answerText": "تسمم الكلى", "isCorrect": false },
+            { "answerText": "تسمم الأعصاب", "isCorrect": false },
+            { "answerText": "تسمم الكبد", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 39,
+          "type": "mcq",
+          "questionText": "أي من الماكروليدات له أطول نصف عمر؟",
+          "answerOptions": [
+            { "answerText": "أزيثروميسين", "isCorrect": true },
+            { "answerText": "كلاريثروميسين", "isCorrect": false },
+            { "answerText": "إريثروميسين", "isCorrect": false },
+            { "answerText": "تليثروميسين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 40,
+          "type": "mcq",
+          "questionText": "ما هو موانع استخدام تليثروميسين؟",
+          "answerOptions": [
+            { "answerText": "الوهن العضلي الوبيل", "isCorrect": true },
+            { "answerText": "ارتفاع ضغط الدم", "isCorrect": false },
+            { "answerText": "مرض السكري", "isCorrect": false },
+            { "answerText": "الربو", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fluoroquinolones",
+      "topicName": "Quinolones and Fluoroquinolones",
+      "description": "أسئلة حول مجموعة الكينولونات والفلوروكينولونات.",
+      "questions": [
+        {
+          "id": 41,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل الفلوروكينولونات؟",
+          "answerOptions": [
+            { "answerText": "تثبيط DNA جيراز والتوبوإيزوميراز IV", "isCorrect": true },
+            { "answerText": "الارتباط بالوحدة الفرعية 30S للريبوسوم", "isCorrect": false },
+            { "answerText": "تثبيط تخليق جدار الخلية", "isCorrect": false },
+            { "answerText": "حجب تخليق الفولات", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 42,
+          "type": "mcq",
+          "questionText": "أي من الفلوروكينولونات له أفضل نشاط ضد الزائفة الزنجارية؟",
+          "answerOptions": [
+            { "answerText": "سيبروفلوكساسين", "isCorrect": true },
+            { "answerText": "ليفوفلوكساسين", "isCorrect": false },
+            { "answerText": "موكسيفلوكساسين", "isCorrect": false },
+            { "answerText": "جيميفلوكساسين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 43,
+          "type": "mcq",
+          "questionText": "ما هو التأثير الجانبي الرئيسي للفلوروكينولونات؟",
+          "answerOptions": [
+            { "answerText": "تمزق الأوتار", "isCorrect": true },
+            { "answerText": "تسمم الكلى", "isCorrect": false },
+            { "answerText": "تسمم الكبد", "isCorrect": false },
+            { "answerText": "تسمم الأعصاب", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 44,
+          "type": "mcq",
+          "questionText": "أي من الفلوروكينولونات له نشاط ضد اللاهوائيات؟",
+          "answerOptions": [
+            { "answerText": "موكسيفلوكساسين", "isCorrect": true },
+            { "answerText": "سيبروفلوكساسين", "isCorrect": false },
+            { "answerText": "ليفوفلوكساسين", "isCorrect": false },
+            { "answerText": "أوفلوكساسين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 45,
+          "type": "mcq",
+          "questionText": "ما هو موانع استخدام الفلوروكينولونات؟",
+          "answerOptions": [
+            { "answerText": "الأطفال دون 18 سنة (بسبب تلف الغضروف)", "isCorrect": true },
+            { "answerText": "كبار السن", "isCorrect": false },
+            { "answerText": "النساء الحوامل", "isCorrect": false },
+            { "answerText": "مرضى السكري", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antifungal_drugs",
+      "topicName": "Antifungal Drugs",
+      "description": "أسئلة حول الأدوية المضادة للفطريات.",
+      "questions": [
+        {
+          "id": 46,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل الأدوية المضادة للفطريات من مجموعة الآزولات؟",
+          "answerOptions": [
+            { "answerText": "تثبيط تخليق الإرغوستيرول", "isCorrect": true },
+            { "answerText": "الارتباط بجدار الخلية الفطرية", "isCorrect": false },
+            { "answerText": "إتلاف الأنابيب الدقيقة", "isCorrect": false },
+            { "answerText": "تثبيط تخليق الحمض النووي", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 47,
+          "type": "mcq",
+          "questionText": "أي من الأدوية المضادة للفطريات يستخدم لعلاج داء المبيضات الجهازي؟",
+          "answerOptions": [
+            { "answerText": "فلكونازول", "isCorrect": true },
+            { "answerText": "جريسيوفولفين", "isCorrect": false },
+            { "answerText": "نيستاتين", "isCorrect": false },
+            { "answerText": "تيربينافين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 48,
+          "type": "mcq",
+          "questionText": "ما هو التأثير الجانبي الرئيسي للأمفوتريسين B؟",
+          "answerOptions": [
+            { "answerText": "تسمم الكلى", "isCorrect": true },
+            { "answerText": "تسمم الكبد", "isCorrect": false },
+            { "answerText": "تسمم الأعصاب", "isCorrect": false },
+            { "answerText": "تسمم القلب", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 49,
+          "type": "mcq",
+          "questionText": "أي من الأدوية المضادة للفطريات يستخدم موضعيًا لعلاج الالتهابات الفطرية الجلدية؟",
+          "answerOptions": [
+            { "answerText": "كلوتريمازول", "isCorrect": true },
+            { "answerText": "أمفوتريسين B", "isCorrect": false },
+            { "answerText": "فلوسيتوزين", "isCorrect": false },
+            { "answerText": "كاسوفونجين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 50,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل الإكينوكاندينات؟",
+          "answerOptions": [
+            { "answerText": "تثبيط تخليق جدار الخلية (β-1,3-D-غلوكان سينثيز)", "isCorrect": true },
+            { "answerText": "تثبيط تخليق الإرغوستيرول", "isCorrect": false },
+            { "answerText": "إتلاف الأنابيب الدقيقة", "isCorrect": false },
+            { "answerText": "تثبيط تخليق الحمض النووي", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antiviral_drugs",
+      "topicName": "Antiviral Drugs",
+      "description": "أسئلة حول الأدوية المضادة للفيروسات.",
+      "questions": [
+        {
+          "id": 51,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل الأسيكلوفير؟",
+          "answerOptions": [
+            { "answerText": "يثبط بوليميراز الحمض النووي الفيروسي", "isCorrect": true },
+            { "answerText": "يحجب دخول الفيروس", "isCorrect": false },
+            { "answerText": "يثبط بروتياز الفيروس", "isCorrect": false },
+            { "answerText": "يحجب تخليق الحمض النووي الريبي الفيروسي", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 52,
+          "type": "mcq",
+          "questionText": "أي من الأدوية المضادة للفيروسات يستخدم لعلاج الإنفلونزا A و B؟",
+          "answerOptions": [
+            { "answerText": "أوسيلتاميفير", "isCorrect": true },
+            { "answerText": "أسيكلوفير", "isCorrect": false },
+            { "answerText": "ريبافيرين", "isCorrect": false },
+            { "answerText": "جانسيكلوفير", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 53,
+          "type": "mcq",
+          "questionText": "ما هو التأثير الجانبي الرئيسي للزيدوفودين (AZT)؟",
+          "answerOptions": [
+            { "answerText": "كبح نخاع العظم", "isCorrect": true },
+            { "answerText": "تسمم الكلى", "isCorrect": false },
+            { "answerText": "تسمم الكبد", "isCorrect": false },
+            { "answerText": "تسمم الأعصاب", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 54,
+          "type": "mcq",
+          "questionText": "أي من الأدوية هو مثبط بروتياز يستخدم في علاج فيروس نقص المناعة البشرية؟",
+          "answerOptions": [
+            { "answerText": "لوبينافير", "isCorrect": true },
+            { "answerText": "إيفافيرينز", "isCorrect": false },
+            { "answerText": "تينوفوفير", "isCorrect": false },
+            { "answerText": "رالتيجرافير", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 55,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل الريبافيرين؟",
+          "answerOptions": [
+            { "answerText": "يثبط تخليق الحمض النووي الريبي الفيروسي", "isCorrect": true },
+            { "answerText": "يحجب دخول الفيروس", "isCorrect": false },
+            { "answerText": "يثبط بروتياز الفيروس", "isCorrect": false },
+            { "answerText": "يثبط بوليميراز الحمض النووي الفيروسي", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pud_drugs",
+      "topicName": "Drugs for Peptic Ulcer Disease (PUD)",
+      "description": "أسئلة حول الأدوية المستخدمة في علاج القرحة الهضمية وارتجاع المريء.",
+      "questions": [
+        {
+          "id": 56,
+          "type": "mcq",
+          "questionText": "حسب الكتاب، أي فئة من الأدوية تعتبر 'المعيار الذهبي' لعلاج مرض الارتجاع المعدي المريئي (GERD)؟",
+          "answerOptions": [
+            { "answerText": "مضادات الحموضة", "isCorrect": false },
+            { "answerText": "مضادات مستقبلات الهستامين-2", "isCorrect": false },
+            { "answerText": "مثبطات مضخة البروتون (PPIs)", "isCorrect": true },
+            { "answerText": "البروستاغلاندينات", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 57,
+          "type": "true_false",
+          "questionText": "صحيح أو خطأ: أحد الآثار الجانبية الشائعة لمضادات الحموضة التي تحتوي على الألومنيوم هو الإسهال، بينما تسبب مضادات الحموضة التي تحتوي على المغنيسيوم الإمساك.",
+          "answerOptions": [
+            { "answerText": "صحيح", "isCorrect": false },
+            { "answerText": "خطأ", "isCorrect": true }
+          ]
+        },
+        {
+          "id": 58,
+          "type": "mcq",
+          "questionText": "أي دواء هو نظير البروستاغلاندين E1 يستخدم لمنع قرح المعدة الناجم عن مضادات الالتهاب غير الستيرويدية ولكنه موانع أثناء الحمل؟",
+          "answerOptions": [
+            { "answerText": "سكرالفات", "isCorrect": false },
+            { "answerText": "ميزوبروستول", "isCorrect": true },
+            { "answerText": "أوميبرازول", "isCorrect": false },
+            { "answerText": "رانيتيدين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 59,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل مثبطات مضخة البروتون (PPIs)؟",
+          "answerOptions": [
+            { "answerText": "حجب مستقبلات الهستامين-2 على الخلايا الجدارية", "isCorrect": false },
+            { "answerText": "تثبيط غير قابل للعكس لمضخة H+/K+-ATPase", "isCorrect": true },
+            { "answerText": "تعادل حمض المعدة", "isCorrect": false },
+            { "answerText": "تعزيز حماية الغشاء المخاطي", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 60,
+          "type": "mcq",
+          "questionText": "أي دواء يشكل حاجزًا وقائيًا فوق القرح؟",
+          "answerOptions": [
+            { "answerText": "سكرالفات", "isCorrect": true },
+            { "answerText": "أوميبرازول", "isCorrect": false },
+            { "answerText": "رانيتيدين", "isCorrect": false },
+            { "answerText": "ميزوبروستول", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antiemetic_agents",
+      "topicName": "Antiemetic Agents",
+      "description": "أسئلة حول الأدوية المضادة للقيء.",
+      "questions": [
+        {
+          "id": 61,
+          "type": "mcq",
+          "questionText": "أي من الأدوية المضادة للقيء يعمل كمضاد لمستقبلات السيروتونين 5-HT3؟",
+          "answerOptions": [
+            { "answerText": "أوندانسيترون", "isCorrect": true },
+            { "answerText": "ميتوكلوبراميد", "isCorrect": false },
+            { "answerText": "ديكساميثازون", "isCorrect": false },
+            { "answerText": "دايفينهيدرينات", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 62,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل الميتوكلوبراميد؟",
+          "answerOptions": [
+            { "answerText": "مضاد لمستقبلات الدوبامين D2 وناظم لمستقبلات السيروتونين 5-HT4", "isCorrect": true },
+            { "answerText": "مضاد لمستقبلات الهستامين H1", "isCorrect": false },
+            { "answerText": "مضاد لمستقبلات السيروتونين 5-HT3", "isCorrect": false },
+            { "answerText": "مضاد لمستقبلات المسكارين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 63,
+          "type": "mcq",
+          "questionText": "أي من الأدوية المضادة للقيء يستخدم لدوار الحركة؟",
+          "answerOptions": [
+            { "answerText": "دايفينهيدرينات", "isCorrect": true },
+            { "answerText": "أوندانسيترون", "isCorrect": false },
+            { "answerText": "أبريبيتانت", "isCorrect": false },
+            { "answerText": "ديكساميثازون", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 64,
+          "type": "mcq",
+          "questionText": "ما هو تأثير جانبي لمضادات مستقبلات الدوبامين (مثل الميتوكلوبراميد)؟",
+          "answerOptions": [
+            { "answerText": "الأعراض خارج الهرمية", "isCorrect": true },
+            { "answerText": "إطالة فترة QT", "isCorrect": false },
+            { "answerText": "ارتفاع ضغط الدم", "isCorrect": false },
+            { "answerText": "فرط سكر الدم", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 65,
+          "type": "mcq",
+          "questionText": "أي من الأدوية المضادة للقيء هو مضاد لمستقبلات النيوكينين-1 (NK1)؟",
+          "answerOptions": [
+            { "answerText": "أبريبيتانت", "isCorrect": true },
+            { "answerText": "أوندانسيترون", "isCorrect": false },
+            { "answerText": "ميتوكلوبراميد", "isCorrect": false },
+            { "answerText": "ديكساميثازون", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "laxatives",
+      "topicName": "Laxatives",
+      "description": "أسئلة حول الأدوية الملينة.",
+      "questions": [
+        {
+          "id": 66,
+          "type": "mcq",
+          "questionText": "أي من الملينات يعمل عن طريق زيادة الضغط الاسموزي في الأمعاء؟",
+          "answerOptions": [
+            { "answerText": "بولي إيثيلين غليكول (PEG)", "isCorrect": true },
+            { "answerText": "سنا", "isCorrect": false },
+            { "answerText": "دوكوسات", "isCorrect": false },
+            { "answerText": "بيزاكوديل", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 67,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل الملينات المنبهة (مثل البيزاكوديل)؟",
+          "answerOptions": [
+            { "answerText": "زيادة حركة الأمعاء والإفرازات", "isCorrect": true },
+            { "answerText": "سحب الماء إلى الأمعاء", "isCorrect": false },
+            { "answerText": "تليين البراز", "isCorrect": false },
+            { "answerText": "زيادة حجم البراز", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 68,
+          "type": "mcq",
+          "questionText": "أي من الملينات هو ملين البراز؟",
+          "answerOptions": [
+            { "answerText": "دوكوسات", "isCorrect": true },
+            { "answerText": "لاكتولوز", "isCorrect": false },
+            { "answerText": "هيدروكسيد المغنيسيوم", "isCorrect": false },
+            { "answerText": "سيلليوم", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 69,
+          "type": "mcq",
+          "questionText": "ما هو تأثير جانبي للاستخدام المزمن للملينات المنبهة؟",
+          "answerOptions": [
+            { "answerText": "القولون الكسول (فقدان الوظيفة الطبيعية للأمعاء)", "isCorrect": true },
+            { "answerText": "فرط بوتاسيوم الدم", "isCorrect": false },
+            { "answerText": "نقص سكر الدم", "isCorrect": false },
+            { "answerText": "ارتفاع ضغط الدم", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 70,
+          "type": "mcq",
+          "questionText": "أي من الملينات هو عامل تشكيل كتلة؟",
+          "answerOptions": [
+            { "answerText": "سيلليوم", "isCorrect": true },
+            { "answerText": "الزيت المعدني", "isCorrect": false },
+            { "answerText": "سنا", "isCorrect": false },
+            { "answerText": "لاكتولوز", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antihistamines",
+      "topicName": "Antihistamines",
+      "description": "أسئلة حول مضادات الهيستامين.",
+      "questions": [
+        {
+          "id": 71,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل مضادات الهيستامين من الجيل الأول (مثل دايفينهيدرامين)؟",
+          "answerOptions": [
+            { "answerText": "مضادات تنافسية لمستقبلات الهستامين H1", "isCorrect": true },
+            { "answerText": "تثبيط إطلاق الهيستامين", "isCorrect": false },
+            { "answerText": "حجب مستقبلات الهستامين H2", "isCorrect": false },
+            { "answerText": "تثبيط تخليق الهيستامين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 72,
+          "type": "mcq",
+          "questionText": "ما هو التأثير الجانبي الرئيسي لمضادات الهيستامين من الجيل الأول؟",
+          "answerOptions": [
+            { "answerText": "النعاس", "isCorrect": true },
+            { "answerText": "ارتفاع ضغط الدم", "isCorrect": false },
+            { "answerText": "فرط سكر الدم", "isCorrect": false },
+            { "answerText": "إطالة فترة QT", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 73,
+          "type": "mcq",
+          "questionText": "أي من مضادات الهيستامين يفضل لعلاج التهاب الأنف التحسسي بسبب تأثيره الأقل في التسبب بالنعاس؟",
+          "answerOptions": [
+            { "answerText": "لوراتادين", "isCorrect": true },
+            { "answerText": "دايفينهيدرامين", "isCorrect": false },
+            { "answerText": "بروميثازين", "isCorrect": false },
+            { "answerText": "هيدروكسيزين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 74,
+          "type": "mcq",
+          "questionText": "ما هو موانع استخدام مضادات الهيستامين من الجيل الأول؟",
+          "answerOptions": [
+            { "answerText": "الجلوكوما", "isCorrect": true },
+            { "answerText": "ارتفاع ضغط الدم", "isCorrect": false },
+            { "answerText": "مرض السكري", "isCorrect": false },
+            { "answerText": "الربو", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 75,
+          "type": "mcq",
+          "questionText": "أي من مضادات الهيستامين يستخدم لدوار الحركة؟",
+          "answerOptions": [
+            { "answerText": "دايفينهيدرينات", "isCorrect": true },
+            { "answerText": "سيتيريزين", "isCorrect": false },
+            { "answerText": "فكسوفينادين", "isCorrect": false },
+            { "answerText": "ليفوسيتيريزين", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "asthma_copd_drugs",
+      "topicName": "Drugs for Asthma and COPD",
+      "description": "أسئلة حول أدوية الربو ومرض الانسداد الرئوي المزمن.",
+      "questions": [
+        {
+          "id": 76,
+          "type": "mcq",
+          "questionText": "ما هو العلاج الأولي لتفاقم الربو الحاد؟",
+          "answerOptions": [
+            { "answerText": "ناهضات بيتا-2 قصيرة المفعول (مثل السالبوتامول)", "isCorrect": true },
+            { "answerText": "الكورتيكوستيرويدات المستنشقة", "isCorrect": false },
+            { "answerText": "ناهضات بيتا-2 طويلة المفعول", "isCorrect": false },
+            { "answerText": "مضادات الكولين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 77,
+          "type": "mcq",
+          "questionText": "أي دواء هو ناهض بيتا-2 طويل المفعول (LABA) يستخدم لصيانة الربو؟",
+          "answerOptions": [
+            { "answerText": "سالميتيرول", "isCorrect": true },
+            { "answerText": "السالبوتامول", "isCorrect": false },
+            { "answerText": "إيبراتروبيوم", "isCorrect": false },
+            { "answerText": "مونتيلوكاست", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 78,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل المونتيلوكاست؟",
+          "answerOptions": [
+            { "answerText": "مضاد لمستقبلات اللوكوترين", "isCorrect": true },
+            { "answerText": "مثبط للفوسفوديستيراز", "isCorrect": false },
+            { "answerText": "مضاد للمسكارين", "isCorrect": false },
+            { "answerText": "ناهض بيتا-2", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 79,
+          "type": "mcq",
+          "questionText": "أي دواء يستخدم لمرض الانسداد الرئوي المزمن لتقليل التفاقم؟",
+          "answerOptions": [
+            { "answerText": "تيوتروبيوم", "isCorrect": true },
+            { "answerText": "السالبوتامول", "isCorrect": false },
+            { "answerText": "فلوتيكازون", "isCorrect": false },
+            { "answerText": "الثيوفيلين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 80,
+          "type": "mcq",
+          "questionText": "ما هو تأثير جانبي للكورتيكوستيرويدات المستنشقة؟",
+          "answerOptions": [
+            { "answerText": "القلاع الفموي", "isCorrect": true },
+            { "answerText": "تسرع القلب", "isCorrect": false },
+            { "answerText": "ارتفاع ضغط الدم", "isCorrect": false },
+            { "answerText": "فرط سكر الدم", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antihypertensives",
+      "topicName": "Antihypertensive Drugs",
+      "description": "أسئلة حول الأدوية الخافضة للضغط.",
+      "questions": [
+        {
+          "id": 81,
+          "type": "mcq",
+          "questionText": "أي فئة من الأدوية الخافضة للضغط معروفة بأنها تسبب سعالًا جافًا ومستمرًا؟",
+          "answerOptions": [
+            { "answerText": "حاصرات بيتا", "isCorrect": false },
+            { "answerText": "حاصرات قنوات الكالسيوم (CCBs)", "isCorrect": false },
+            { "answerText": "مثبطات الإنزيم المحول للأنجيوتنسين (ACE)", "isCorrect": true },
+            { "answerText": "المدرات البول", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 82,
+          "type": "mcq",
+          "questionText": "المدرات البول الثيازيدية غير فعالة في المرضى الذين يعانون من ضعف في وظائف الكلى عندما يكون معدل الترشيح الكبيبي أقل من أي مستوى؟",
+          "answerOptions": [
+            { "answerText": "90 مل/دقيقة", "isCorrect": false },
+            { "answerText": "60 مل/دقيقة", "isCorrect": false },
+            { "answerText": "30 مل/دقيقة", "isCorrect": true },
+            { "answerText": "15 مل/دقيقة", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 83,
+          "type": "true_false",
+          "questionText": "صحيح أو خطأ: يجب تجنب التوقف المفاجئ عن حاصرات بيتا لأنها يمكن أن تؤدي إلى تفاقم الذبحة الصدرية أو ارتفاع ضغط الدم.",
+          "answerOptions": [
+            { "answerText": "صحيح", "isCorrect": true },
+            { "answerText": "خطأ", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 84,
+          "type": "mcq",
+          "questionText": "أي من الأدوية الخافضة للضغط موانع استخدامه أثناء الحمل؟",
+          "answerOptions": [
+            { "answerText": "مثبطات الإنزيم المحول للأنجيوتنسين", "isCorrect": true },
+            { "answerText": "ميثيل دوبا", "isCorrect": false },
+            { "answerText": "لابيتالول", "isCorrect": false },
+            { "answerText": "هيدرالازين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 85,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل حاصرات قنوات الكالسيوم؟",
+          "answerOptions": [
+            { "answerText": "حجب قنوات الكالسيوم في العضلات الملساء الوعائية والقلب", "isCorrect": true },
+            { "answerText": "تثبيط تكوين الأنجيوتنسين II", "isCorrect": false },
+            { "answerText": "حجب مستقبلات بيتا الأدرينالية", "isCorrect": false },
+            { "answerText": "زيادة إفراز الصوديوم والماء", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "heart_failure_drugs",
+      "topicName": "Drugs for Heart Failure (HF)",
+      "description": "أسئلة حول أدوية قصور القلب.",
+      "questions": [
+        {
+          "id": 86,
+          "type": "mcq",
+          "questionText": "أي فئة من الأدوية تعتبر الخط الأول لعلاج قصور القلب مع انخفاض الكسر القذفي (HFrEF)؟",
+          "answerOptions": [
+            { "answerText": "مثبطات الإنزيم المحول للأنجيوتنسين", "isCorrect": true },
+            { "answerText": "حاصرات بيتا", "isCorrect": false },
+            { "answerText": "حاصرات قنوات الكالسيوم", "isCorrect": false },
+            { "answerText": "المدرات البول", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 87,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل السبيرونولاكتون في قصور القلب؟",
+          "answerOptions": [
+            { "answerText": "مضاد للألدوستيرون (يقلل من التليف واحتباس السوائل)", "isCorrect": true },
+            { "answerText": "يحجب مستقبلات بيتا-1", "isCorrect": false },
+            { "answerText": "يثبط الأنجيوتنسين II", "isCorrect": false },
+            { "answerText": "يزيد من انقباضية القلب", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 88,
+          "type": "mcq",
+          "questionText": "أي من حاصرات بيتا يستخدم بشكل خاص في علاج قصور القلب؟",
+          "answerOptions": [
+            { "answerText": "كارفيديلول", "isCorrect": true },
+            { "answerText": "ميتوبرولول", "isCorrect": false },
+            { "answerText": "بروبرانولول", "isCorrect": false },
+            { "answerText": "أتينولول", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 89,
+          "type": "mcq",
+          "questionText": "ما هو دور الديجوكسين في علاج قصور القلب؟",
+          "answerOptions": [
+            { "answerText": "يزيد من انقباضية القلب ويقلل من معدل ضربات القلب", "isCorrect": true },
+            { "answerText": "يقلل من الحمل اللاحق", "isCorrect": false },
+            { "answerText": "يحجب الألدوستيرون", "isCorrect": false },
+            { "answerText": "يثبط الأنجيوتنسين II", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 90,
+          "type": "mcq",
+          "questionText": "أي دواء هو مثبط لمستقبلات الأنجيوتنسين-نيبريليزين (ARNI) يستخدم في علاج قصور القلب مع انخفاض الكسر القذفي (HFrEF)؟",
+          "answerOptions": [
+            { "answerText": "ساكوبيتريل/فالسارتان", "isCorrect": true },
+            { "answerText": "لوسارتان", "isCorrect": false },
+            { "answerText": "إينالابريل", "isCorrect": false },
+            { "answerText": "سبيرونولاكتون", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antidepressants",
+      "topicName": "Antidepressant Drugs",
+      "description": "أسئلة حول الأدوية المضادة للاكتئاب.",
+      "questions": [
+        {
+          "id": 91,
+          "type": "mcq",
+          "questionText": "أي فئة من مضادات الاكتئاب تعتبر الخط الأول لعلاج الاضطراب الاكتئابي الكبير؟",
+          "answerOptions": [
+            { "answerText": "مثبطات استرداد السيروتونين الانتقائية (SSRIs) (مثل الفلوكستين)", "isCorrect": true },
+            { "answerText": "مضادات الاكتئاب ثلاثية الحلقات (TCAs) (مثل الأميتريبتيلين)", "isCorrect": false },
+            { "answerText": "مثبطات أكسيداز أحادي الأمين (MAOIs) (مثل الفينيلزين)", "isCorrect": false },
+            { "answerText": "مثبطات استرداد السيروتونين والنورإبينفرين (SNRIs) (مثل الفينلافاكسين)", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 92,
+          "type": "mcq",
+          "questionText": "ما هو التأثير الجانبي الشائع لمثبطات استرداد السيروتونين الانتقائية (SSRIs)؟",
+          "answerOptions": [
+            { "answerText": "ضعف الجنسي", "isCorrect": true },
+            { "answerText": "ارتفاع ضغط الدم", "isCorrect": false },
+            { "answerText": "إطالة فترة QT", "isCorrect": false },
+            { "answerText": "الأعراض خارج الهرمية", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 93,
+          "type": "mcq",
+          "questionText": "أي من مضادات الاكتئاب يرتبط بأعلى خطر في حالة الجرعة الزائدة؟",
+          "answerOptions": [
+            { "answerText": "مضادات الاكتئاب ثلاثية الحلقات (مثل الأميتريبتيلين)", "isCorrect": true },
+            { "answerText": "مثبطات استرداد السيروتونين الانتقائية (مثل السيرترالين)", "isCorrect": false },
+            { "answerText": "بوبروبيون", "isCorrect": false },
+            { "answerText": "ميرتازابين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 94,
+          "type": "mcq",
+          "questionText": "ما هي متلازمة السيروتونين؟",
+          "answerOptions": [
+            { "answerText": "حالة تهدد الحياة تسببها زيادة السيروتونين", "isCorrect": true },
+            { "answerText": "تأثير جانبي لمضادات الاكتئاب ثلاثية الحلقات", "isCorrect": false },
+            { "answerText": "أعراض انسحاب لمثبطات استرداد السيروتونين الانتقائية", "isCorrect": false },
+            { "answerText": "تأثير جانبي نادر للبوبروبيون", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 95,
+          "type": "mcq",
+          "questionText": "أي من مضادات الاكتئاب يستخدم أيضًا للإقلاع عن التدخين؟",
+          "answerOptions": [
+            { "answerText": "بوبروبيون", "isCorrect": true },
+            { "answerText": "فلوكستين", "isCorrect": false },
+            { "answerText": "سيرترالين", "isCorrect": false },
+            { "answerText": "إسيتالوبرام", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antidiabetic_drugs",
+      "topicName": "Insulin and Antidiabetic Drugs",
+      "description": "أسئلة حول الأنسولين وأدوية السكري.",
+      "questions": [
+        {
+          "id": 96,
+          "type": "mcq",
+          "questionText": "أي نوع من الأنسولين له أسرع بداية وأقصر مدة؟",
+          "answerOptions": [
+            { "answerText": "أنسولين ليسبرو", "isCorrect": true },
+            { "answerText": "أنسولين NPH", "isCorrect": false },
+            { "answerText": "أنسولين غلارجين", "isCorrect": false },
+            { "answerText": "أنسولين ديتمير", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 97,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل الميتفورمين؟",
+          "answerOptions": [
+            { "answerText": "تنشيط AMPK (يقلل من تصنيع الجلوكوز في الكبد)", "isCorrect": true },
+            { "answerText": "تحفيز إفراز الأنسولين", "isCorrect": false },
+            { "answerText": "تثبيط SGLT2", "isCorrect": false },
+            { "answerText": "زيادة حساسية الأنسولين", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 98,
+          "type": "mcq",
+          "questionText": "أي من أدوية السكري يرتبط بفقدان الوزن؟",
+          "answerOptions": [
+            { "answerText": "مثبطات SGLT2 (مثل إمباغليفلوزين)", "isCorrect": true },
+            { "answerText": "السلفونيل يوريا (مثل الغليبيزيد)", "isCorrect": false },
+            { "answerText": "الثيازوليدينديونات (مثل البيوغليتازون)", "isCorrect": false },
+            { "answerText": "الميغليتينيدات (مثل الريباغلينيد)", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 99,
+          "type": "mcq",
+          "questionText": "ما هو التأثير الجانبي الرئيسي للسلفونيل يوريا؟",
+          "answerOptions": [
+            { "answerText": "نقص سكر الدم", "isCorrect": true },
+            { "answerText": "الحماض اللبني", "isCorrect": false },
+            { "answerText": "زيادة الوزن", "isCorrect": false },
+            { "answerText": "الالتهابات الفطرية التناسلية", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 100,
+          "type": "mcq",
+          "questionText": "أي من الأدوية هو ناهض لمستقبلات GLP-1؟",
+          "answerOptions": [
+            { "answerText": "ليراغلوتيد", "isCorrect": true },
+            { "answerText": "سيتاغليبتين", "isCorrect": false },
+            { "answerText": "بيوغليتازون", "isCorrect": false },
+            { "answerText": "أكاربوز", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dermatology_acne",
+      "topicName": "Acne",
+      "description": "أسئلة حول أدوية حب الشباب.",
+      "questions": [
+        {
+          "id": 101,
+          "type": "mcq",
+          "questionText": "ما هو العلاج الموضعي الأولي لحب الشباب الخفيف؟",
+          "answerOptions": [
+            { "answerText": "بيروكسيد البنزويل", "isCorrect": true },
+            { "answerText": "دوكسيسيكلين عن طريق الفم", "isCorrect": false },
+            { "answerText": "إيزوتريتينوين", "isCorrect": false },
+            { "answerText": "الكورتيكوستيرويدات الموضعية", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 102,
+          "type": "mcq",
+          "questionText": "ما هو آلية عمل الريتينويدات (مثل التريتينوين) في علاج حب الشباب؟",
+          "answerOptions": [
+            { "answerText": "تطبيع الكيراتينية وتقليل الرؤوس السوداء", "isCorrect": true },
+            { "answerText": "قتل البكتيريا المسببة لحب الشباب", "isCorrect": false },
+            { "answerText": "تقليل إنتاج الزهم", "isCorrect": false },
+            { "answerText": "مضاد للالتهابات", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 103,
+          "type": "mcq",
+          "questionText": "أي دواء يستخدم لعلاج حب الشباب العقدي الشديد ولكنه يسبب تشوهات خلقية؟",
+          "answerOptions": [
+            { "answerText": "إيزوتريتينوين", "isCorrect": true },
+            { "answerText": "دوكسيسيكلين", "isCorrect": false },
+            { "answerText": "كليندامايسين", "isCorrect": false },
+            { "answerText": "حمض الأزيليك", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 104,
+          "type": "mcq",
+          "questionText": "ما هو التأثير الجانبي الشائع للريتينويدات الموضعية؟",
+          "answerOptions": [
+            { "answerText": "تهيج الجلد والحساسية للضوء", "isCorrect": true },
+            { "answerText": "فرط التصبغ", "isCorrect": false },
+            { "answerText": "الشعرانية", "isCorrect": false },
+            { "answerText": "ارتفاع ضغط الدم", "isCorrect": false }
+          ]
+        },
+        {
+          "id": 105,
+          "type": "mcq",
+          "questionText": "أي مضاد حيوي يستخدم عادة لعلاج حب الشباب الالتهابي المعتدل؟",
+          "answerOptions": [
+            { "answerText": "دوكسيسيكلين", "isCorrect": true },
+            { "answerText": "أموكسيسيلين", "isCorrect": false },
+            { "answerText": "سيبروفلوكساسين", "isCorrect": false },
+            { "answerText": "أزيثروميسين", "isCorrect": false }
+          ]
+        }
+      ]
+    }
+  ]
+}
